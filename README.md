@@ -4,6 +4,10 @@
 <h3 align="left">  I am a software developer with 3 years of experience in the field. Currently working at Ford Motor Company as a Software Developer, Web Developer and Data Analyst.
 </h3>
 
+<h1>❓About me </h1>
+<h3>  Comming from a physics and mathematics backgroud, researching and teaching, I've found a great way to execute challenging ideas in the form of elegant and powerful Softwares.
+</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsolucas&label=Profile%20views&color=0e75b6&style=flat" alt="tarsolucas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarsolucas" alt="tarsolucas" /></a> </p>
