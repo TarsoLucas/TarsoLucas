@@ -1,4 +1,8 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hello there 👋</h1>
+> General Kenobi
+
+<h3 align="left">  I am a software developer with 3 years of experience in the field. Currently working at Ford Motor Company as a Software Developer, Web Developer and Data Analyst.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsolucas&label=Profile%20views&color=0e75b6&style=flat" alt="tarsolucas" /> </p>
 
