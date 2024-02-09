@@ -8,8 +8,6 @@
 <h3>  Comming from a physics and mathematics backgroud, researching and teaching, I've found a great way to execute challenging ideas in the form of elegant and powerful Softwares.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsolucas&label=Profile%20views&color=0e75b6&style=flat" alt="tarsolucas" /> </p>
-
 <h1 align="left">💻 Techs</h1>
 
 <p align="left"> 
