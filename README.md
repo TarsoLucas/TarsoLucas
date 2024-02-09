@@ -30,8 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsolucas&show_icons=true&locale=en&layout=compact" alt="tarsolucas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarsolucas&show_icons=true&locale=en" alt="tarsolucas" /></p>
-
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/tarsolucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarsolucas" height="30" width="40" /></a>
