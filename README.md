@@ -1,7 +1,7 @@
 # Hello there 👋
 > General Kenobi
 
-### I am a software developer with 3 years of experience in the field. Currently working at Ford Motor Company as a Software Developer, Web Developer and Data Analyst.
+### I am a software developer with over 3 years of experience in the field. Currently working at Ford Motor Company as a Software Developer, Web Developer and Data Analyst.
 
 
 # ❓About me
